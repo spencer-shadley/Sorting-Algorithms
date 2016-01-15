@@ -1,4 +1,3 @@
-# algorithm-implementations
-Various implementation of algorithms implemented in Java
+# Sorting Algorithms
 
-I am reviewing various algorithms by implementing them in Java. This includes sorting, various data structures (LinkedList, HashMap, Trees, etc.) and shortest path.
+Various implementation of sorting algorithms implemented in Java
